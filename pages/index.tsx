@@ -2,7 +2,7 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  <Layout title="Our advocates and lawyers are working behind the scenes, we will come with the judgement soon :)">
+  <Layout title="Nyayanidhi">
     <img
       src="/images/xera.svg"
       alt="Themeptation"
@@ -28,7 +28,7 @@ const IndexPage = () => (
         </h3>
         {/* <h1 className="text-7xl lg:text-9xl font-extrabold">10X Productivity of Indian Legal System</h1> */}
         <p className="text-xl lg:text-2xl tracking-wide mx-10 ">
-          Our advocates and lawyers are working behind the scenes :)
+         We're excited to superpower you with specialized Legal AI Assistants
         </p>
       </div>
     </div>
