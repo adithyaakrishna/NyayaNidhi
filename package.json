@@ -1,6 +1,6 @@
 {
-  "name": "coming-soon",
-  "desription": "Clean Coming Soon Template (Tailwind CSS, NextJs & HTML5)",
+  "name": "nyayanidhi",
+  "desription": "Judging Soon",
   "version": "1.0.0",
   "keywords": [
     "coming soon",
@@ -9,7 +9,8 @@
     "nextjs",
     "html"
   ],
-  "author": "Themeptation",
+  "author": "@adithyaakrishna",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
